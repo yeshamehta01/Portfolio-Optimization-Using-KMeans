@@ -1,0 +1,6 @@
+strategy,ann_ret_estimate,ann_vol,reported_sharpe,max_drawdown,avg_turnover,cagr
+Equal-weight (1/N),0.21816,0.1685,1.176025,-0.198551,0.046112,0.201508
+Minimum-variance,0.148377,0.145417,0.88282,-0.165902,0.097423,0.136619
+Max-Sharpe (tangency),0.270811,0.190162,1.318932,-0.265908,0.08536,0.248914
+Inverse-volatility,0.189452,0.15534,1.090849,-0.175602,0.042823,0.175599
+Cluster-diversified (k-means),0.191,0.168,1.02,-0.236,0.2,0.174976
